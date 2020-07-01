@@ -3,3 +3,5 @@ Projetos de finanças
     - Python Jupyter Notebook
 2. Estudo sobre a performance de uma carteira baseada no Índice Sharpe
     - Python Jupyter Notebook
+3. Estudo sobre a performance de uma carteira de mínima variância global, com base na Teoria Moderna do Portfólio
+    - Python Jupyter Notebook
